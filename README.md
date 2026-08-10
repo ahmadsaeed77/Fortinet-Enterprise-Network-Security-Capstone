@@ -12,6 +12,10 @@ The project simulates a multi-site enterprise network consisting of:
 
 The environment was built using FortiGate, Cisco networking devices, and PNETLab.
 
+## Network Topology
+
+![Network Topology](Topology/Network-Topology.png)
+
 ## Technologies Used
 
 - FortiGate Firewall
